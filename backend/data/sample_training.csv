@@ -1,0 +1,13 @@
+organ,drug,dose_mg,duration_h,oxygen,ph,viability,lactate,toxic_metabolites,heartbeat,contractility,filtration,glucose,label
+liver,Drug A,5,6,97.2,7.40,98.1,0.8,1.1,72,90,105,95,Normal
+liver,Drug A,10,12,96.4,7.38,96.8,1.0,1.4,70,88,102,92,Normal
+liver,Drug B,20,12,88.1,7.28,84.2,2.4,8.6,78,82,91,78,Mild Toxicity
+liver,Drug B,40,24,79.4,7.18,71.5,3.8,14.2,86,70,74,66,Mild Toxicity
+liver,Drug C,25,8,62.0,7.02,48.3,6.1,28.4,110,52,48,51,Severe Toxicity
+liver,Drug C,50,24,41.2,6.88,22.1,8.4,41.0,40,28,22,38,Severe Toxicity
+heart,Drug A,5,6,96.8,7.41,97.5,0.7,0.9,68,94,100,90,Normal
+heart,Drug B,30,18,81.0,7.21,76.4,2.9,11.5,96,61,80,70,Mild Toxicity
+heart,Drug C,40,12,55.4,7.00,39.8,5.7,26.1,128,33,44,49,Severe Toxicity
+kidney,Drug A,8,8,95.1,7.39,97.0,0.9,1.6,71,89,112,93,Normal
+kidney,Drug B,25,16,84.6,7.24,80.2,2.6,12.8,82,75,68,72,Mild Toxicity
+kidney,Drug C,45,20,49.8,6.95,31.4,6.8,33.7,118,41,29,44,Severe Toxicity

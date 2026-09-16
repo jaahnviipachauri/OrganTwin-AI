@@ -1,0 +1,59 @@
+{
+  "feature_columns": [
+    "dose_mg",
+    "duration_h",
+    "oxygen",
+    "ph",
+    "viability",
+    "lactate",
+    "toxic_metabolites",
+    "heartbeat",
+    "contractility",
+    "filtration",
+    "glucose",
+    "organ_heart",
+    "organ_kidney",
+    "organ_liver",
+    "organ_lungs"
+  ],
+  "labels": [
+    "Normal",
+    "Mild Toxicity",
+    "Severe Toxicity"
+  ],
+  "accuracy": 0.99375,
+  "report": {
+    "Normal": {
+      "precision": 0.9935275080906149,
+      "recall": 0.9967532467532467,
+      "f1-score": 0.9951377633711507,
+      "support": 308.0
+    },
+    "Mild Toxicity": {
+      "precision": 0.9908256880733946,
+      "recall": 0.9818181818181818,
+      "f1-score": 0.9863013698630136,
+      "support": 110.0
+    },
+    "Severe Toxicity": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 62.0
+    },
+    "accuracy": 0.99375,
+    "macro avg": {
+      "precision": 0.9947843987213365,
+      "recall": 0.9928571428571429,
+      "f1-score": 0.9938130444113881,
+      "support": 480.0
+    },
+    "weighted avg": {
+      "precision": 0.9937443712082975,
+      "recall": 0.99375,
+      "f1-score": 0.993740795423429,
+      "support": 480.0
+    }
+  },
+  "n_samples": 2400
+}

@@ -1,0 +1,14 @@
+timestamp,organ,metric,value,unit
+2026-09-15T10:00:00Z,liver,oxygen,97.4,%
+2026-09-15T10:00:00Z,liver,glucose,94.1,mg/dL
+2026-09-15T10:00:00Z,liver,lactate,0.82,mmol/L
+2026-09-15T10:00:00Z,liver,ph,7.40,pH
+2026-09-15T10:00:00Z,liver,viability,98.2,%
+2026-09-15T10:00:00Z,heart,heartbeat,72,bpm
+2026-09-15T10:00:00Z,heart,contractility,91,%
+2026-09-15T10:00:00Z,heart,oxygen,96.8,%
+2026-09-15T10:00:00Z,heart,ph,7.40,pH
+2026-09-15T10:00:00Z,kidney,filtration,108,mL/min
+2026-09-15T10:00:00Z,kidney,toxic_metabolites,1.2,AU
+2026-09-15T10:00:00Z,kidney,oxygen,95.5,%
+2026-09-15T10:00:00Z,kidney,viability,97.6,%
